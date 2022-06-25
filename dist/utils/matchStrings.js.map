@@ -1,0 +1,1 @@
+{"version":3,"file":"matchStrings.js","sourceRoot":"","sources":["../../src/utils/matchStrings.ts"],"names":[],"mappings":";;AACA,kBAAe,CAAC,YAAoB,EAAE,GAAG,OAAiB,EAAE,EAAE;IAC5D,OAAO,OAAO,CAAC,IAAI,CAAC,CAAC,MAAM,EAAE,EAAE;QAC7B,OAAO,MAAM,CAAC,WAAW,EAAE,CAAC,QAAQ,CAAC,YAAY,CAAC,WAAW,EAAE,CAAC,CAAC;IACnE,CAAC,CAAC,CAAC;AACL,CAAC,CAAC"}

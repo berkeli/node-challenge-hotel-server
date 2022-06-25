@@ -1,0 +1,1 @@
+{"version":3,"file":"getNewId.js","sourceRoot":"","sources":["../../src/utils/getNewId.ts"],"names":[],"mappings":";;AAEA,kBAAe,CAAC,QAAoB,EAAE,EAAE;IACtC,IAAI,QAAQ,CAAC,MAAM,KAAK,CAAC;QAAE,OAAO,CAAC,CAAC;IACpC,OAAO,QAAQ,CAAC,QAAQ,CAAC,MAAM,GAAG,CAAC,CAAC,CAAC,EAAE,GAAG,CAAC,CAAC;AAC9C,CAAC,CAAC"}

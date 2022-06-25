@@ -1,0 +1,1 @@
+{"version":3,"file":"invalidRoute.js","sourceRoot":"","sources":["../../../src/routes/controllers/invalidRoute.ts"],"names":[],"mappings":";;;;;AACA,gEAAwC;AAExC,SAAwB,YAAY,CAAC,GAAY,EAAE,GAAa;IAC9D,gBAAM,CAAC,IAAI,CAAC,mBAAmB,GAAG,CAAC,MAAM,MAAM,GAAG,CAAC,WAAW,EAAE,CAAC,CAAC;IAClE,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,qBAAqB,CAAC,CAAC;AAC9C,CAAC;AAHD,+BAGC"}
